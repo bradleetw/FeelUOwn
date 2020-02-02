@@ -76,3 +76,6 @@ htmlcov/
 
 # vscode
 .vscode/
+
+# pyenv
+.python-version
